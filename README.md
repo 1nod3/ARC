@@ -274,35 +274,4 @@ This level of detail is especially useful when you need to investigate exactly w
 
 ---
 
-## Future Plans
-
-- Enhanced Function Detection:  
-  Implement advanced control flow analysis and pattern matching to improve the accuracy of function boundary detection.
-
-- Dynamic Analysis Integration:  
-  Integrate dynamic analysis techniques to capture runtime behavior and improve reuse detection.
-
-- Extended Architecture Support:  
-  Add support for additional architectures and better handling of mixed/embedded code in binaries.
-
-- Adaptive Sliding-window Algorithms:  
-  Experiment with adaptive window sizes and new fingerprinting algorithms to better capture code similarities.
-
-- User Interface Improvements:  
-  Develop a graphical user interface (GUI) for interactive analysis and visualization.
-
-- Threat Intelligence Integration:  
-  Combine ARC outputs with threat intelligence feeds to automatically flag suspicious similarities in malware samples.
-
-- Performance Optimizations:  
-  Optimize database queries and parallel processing to efficiently handle large datasets.
-
----
-
-## License
-
-This tool is provided "as-is" without any warranty. You are free to modify and distribute it under your chosen open-source license.
-
----
-
 This documentation serves as a complete guide to ARC – Artifact Reuse Comparator, its features, architecture, usage, limitations, and future enhancements.
