@@ -1,6 +1,6 @@
 # ARC – Artifact Reuse Comparator
 
-ARC (Artifact Reuse Comparator) is a static analysis tool for Windows PE files (executables and DLLs) that identifies code reuse across binaries. ARC disassembles files, extracts various artefacts (such as functions, basic blocks, API calls, and sliding-window fingerprints), stores them in an SQLite database, and then compares new binaries against previously analyzed ones. Detailed reports (in TXT and HTML formats) can be generated, and a control flow graph (CFG) visualization is available.
+ARC (Artifact Reuse Comparator) is a static analysis tool for Windows PE files (executables and DLLs) that identifies code reuse across binaries. ARC disassembles files, extracts various artefacts (such as functions, basic blocks, API calls, and sliding-window fingerprints), stores them in an SQLite database, and then compares new binaries against previously analyzed ones. Detailed reports (in TXT and HTML formats) can be generated.
 
 ---
 
